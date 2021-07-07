@@ -8,7 +8,7 @@ This is My Portfolio web site but not just like any regular one!
 git clone <this-repo>
 ```
 1. Open the folder with VS code 
-2. Open a new terminal and go to Int-earth directory
+2. Open a new terminal
 3. Run these commands
 
 ```bash
